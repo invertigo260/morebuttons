@@ -1,0 +1,9 @@
+{
+    "name": "MoreButtons",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/invertigo260/morebuttons",
+    "description": "Quality-of-Life mod for Lethal Company adding configurable hotkeys for contextual teleporting (F5) and ship lights (F7).",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
